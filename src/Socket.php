@@ -58,7 +58,7 @@ class Socket
 		$this->port = $port;
 
 		/* Open socket */
-		$this->socket = fsockopen(
+		$this->socket = @fsockopen(
 			$this->getHostname(),
 			$this->getPort(),
 			$error_code,
