@@ -17,7 +17,7 @@ Game servers that support RCON include (but are not limited to):
 
 Install using composer:
 
-``` composer require jacobfitz/rcon ```
+``` composer require jfitz/rcon ```
 
 ## Usage
 
