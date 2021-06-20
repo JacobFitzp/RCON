@@ -9,6 +9,7 @@
             "email": "contact@jacob-fitzpatrick.co.uk"
         }
     ],
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
